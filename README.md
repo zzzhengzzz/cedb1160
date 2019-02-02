@@ -2,3 +2,6 @@
 class repo
 
 new line
+
+another line
+
